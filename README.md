@@ -5,6 +5,10 @@ An interactive Tableau resume showcasing 9+ years of professional experience in 
 
 This project transforms a traditional resume into a visual, interactive experience, allowing recruiters and hiring managers to explore my career progression, technical capabilities, and measurable project outcomes.
 
+## Dashboard Preview
+
+![Interactive BI Resume Dashboard](dashboard-preview.png)
+
 ## Dashboard Features
 
 ### Career Timeline
